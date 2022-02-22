@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Trello Clone with react-dnd react-dnd-html5-backend & reaxct-modal (based on simple CRA, no API just Frontend functionality)
+
+![App Screen](./screenshots/screenshot.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
